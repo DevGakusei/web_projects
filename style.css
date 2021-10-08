@@ -1,0 +1,84 @@
+*{
+  border: 0 0 0 0;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+body{
+  background-color: #ffe6b3;"
+  font-family: sans-serif;
+  background-image: url("/home/judah/Documentos/projetos web/barra_navegacao_horizontal/images/amy-hirschi-szrJ3wjzOMg-unsplash.jpg");
+  background-size: 98%;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+.topo{
+  margin: auto;
+  text-align: center;
+  background: #ffc34d;
+  margin: 0px 5px;
+
+}
+.topo>h2{
+  color: black;
+  border: 5px solid black;
+  margin:20px;
+  border-radius: 15px;
+  display: inline-block;
+  padding: 2px 50px;
+}
+#barra_navegacao ul{
+  display: inline-block;
+  background-color:  #cc5200;
+
+  border: 3px solid #b34700;
+  text-align: center;
+  width: 80%;
+  height: 50px;
+  border-radius: 15px;
+}
+#barra_navegacao li{
+
+  display: inline-block;
+  padding: 2px 10px;
+  margin: 12px 40px;
+  background-color:
+  border-radius: 15px;
+  /*border: 1px solid red;*/
+}
+#barra_navegacao a{
+  text-decoration: none;
+  color: white;
+  width: 20px;
+  padding: 10px 50px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+#barra_navegacao a:hover{
+  background: #662900
+}
+#Amostra{
+
+  margin: 10px auto;
+  text-align: center;
+  background: white;
+}
+#Amostra>h3{
+  color: black;
+  font-weight: lighter;
+  font-style: italic;
+}
+#Amostra img{
+  border: 3px solid black;
+  float: left;
+  width: 400px;
+  margin:0  20px;
+
+}
+#Amostra p {
+  margin: 10px 20px;
+  padding: 10px;
+  color: gray;
+}
+.correcao{
+  clear: both;
+}
